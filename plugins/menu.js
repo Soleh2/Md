@@ -30,8 +30,6 @@ const defaultMenu = {
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -137,14 +135,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: 'Source Code',
-               url: 'https://github.com/adulalhy/Nana-MD'
+               url: 'https://github.com/Narutomo/wabot-aq'
              }
 
            },
                {
              callButton: {
                displayText: 'Call Owner',
-               phoneNumber: '+62'
+               phoneNumber: '+6281252848955'
              }
            },
                {
