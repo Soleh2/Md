@@ -6,7 +6,7 @@ const received = chalk.bold.cyan
 const error = chalk.bold.red
 
 
-global.owner = ['6281390199407','6281393190599'] // Put your number here
+global.owner = ['6281252848955','6281252848955'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = {
@@ -14,7 +14,7 @@ global.APIs = {
 // Prefix: 'Alamat Url Website Rest Api',
   bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
+  hardianto: 'https://hardianto.xyz',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
   neoxr: 'https://neoxr-api.herokuapp.com',
   nzcha: 'http://nzcha-apii.herokuapp.com',
@@ -28,7 +28,7 @@ global.APIs = {
   zekais: 'http://zekais-api.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
   leys: 'https://leyscoders-api.herokuapp.com',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
+  hardianto: 'https://hardianto.xyz',
   lol: 'https://api.lolhuman.xyz',
   vh: 'http://api.vhtear.com',
 }
@@ -37,21 +37,21 @@ global.APIKeys = {
 // 'Alamat Url Website Rest Api': 'Apikey',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
+  'https://hardianto.xyz': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'pais',
   'https://api.xteam.xyz': 'HIRO',
   'http://api.vhtear.com': 'HIROZTWO',
   'https://api.lolhuman.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'nandowangy',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://hardianto-chan.herokuapp.com': 'hardianto'
+  'https://hardianto.xyz': 'hardianto'
 }
 
 // Sticker WM
-global.packname = 'Nana-MD'
-global.author = 'Adul Alhy'
+global.packname = 'Zets-MD'
+global.author = 'Free'
 
 global.sessionid = '48736705854:2Tq6joffmVDzaS:24' // ID Sesi Instagram, Kamu Bisa Menganti Dengan Sesi Milikmu
 global.multiplier = 69 // Semakin Tinggi Angka/Nilai, Maka Peningkatan Level Akan Semakin Sulit
