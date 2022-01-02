@@ -50,7 +50,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.packname = 'Zets-MD'
+global.packname = '[ *ZETS* ]'
 global.author = 'Free'
 
 global.sessionid = '48736705854:2Tq6joffmVDzaS:24' // ID Sesi Instagram, Kamu Bisa Menganti Dengan Sesi Milikmu
